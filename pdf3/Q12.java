@@ -1,3 +1,4 @@
+/*12. Find factorial of a number using for loop */
 package pdf3;
 import java.util.Scanner;
 

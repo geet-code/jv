@@ -1,3 +1,4 @@
+/*10. Check whether a number is a multiple of 3 or not using if-else */
 package pdf3;
 
 import java.util.Scanner;

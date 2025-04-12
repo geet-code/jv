@@ -1,3 +1,6 @@
+/*7. Print multiplication table of a number using loop
+ Input: 5
+ Output: 5 10 15 20 ... 50 */
 package pdf3;
 import java.util.Scanner;
 

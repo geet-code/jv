@@ -1,3 +1,4 @@
+/*6. Sum of first N natural numbers using while loop */
 package pdf3;
 import java.util.Scanner;
 

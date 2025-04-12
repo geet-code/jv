@@ -1,3 +1,7 @@
+/*1. Check Even or Odd using if-else
+ Input: Any integer
+ Output: "Even" or "Odd"
+ */
 package pdf3;
 import java.util.Scanner;
 

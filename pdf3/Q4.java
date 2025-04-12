@@ -1,3 +1,4 @@
+/*4. Check whether a character is vowel or consonant using switch-case */
 package pdf3;
 
 import java.util.Scanner;

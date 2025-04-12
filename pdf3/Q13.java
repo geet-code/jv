@@ -1,3 +1,6 @@
+/*13. Write a program to reverse a number using while loop
+ Input: 1234
+ Output: 4321 */
 package pdf3;
 public class Q13 {
     public static void main(String[] args) {

@@ -1,3 +1,6 @@
+/*5. Print numbers from 1 to N using a for loop
+ Input: N
+ Output: 1 2 3 ... N */
 package pdf3;
 import java.util.Scanner;
 

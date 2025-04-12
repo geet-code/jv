@@ -1,3 +1,7 @@
+/*2. Check Positive, Negative or Zero
+ Input: Any integer
+ Output: "Positive", "Negative" or "Zero"
+ */
 package pdf3;
 import java.util.Scanner;
 

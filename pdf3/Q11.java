@@ -1,3 +1,4 @@
+/*11. Take a character input and print its ASCII value (Type casting) */
 package pdf3;
 
 import java.util.Scanner;

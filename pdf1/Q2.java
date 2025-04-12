@@ -1,5 +1,5 @@
-// 2. Declare variables of all primitive types (byte, short, int, long, float, double, char, boolean) and print them
-
+/*2. Declare variables of all primitive types (byte, short, int, long, float, double, char, boolean) and print them */
+package pdf1;
 public class Q2 {
     public static void main(String[] args) {
         byte a = 1;

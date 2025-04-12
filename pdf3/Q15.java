@@ -1,3 +1,6 @@
+/*15. Use switch-case to build a simple calculator (Add, Sub, Mul, Div)
+ Input: Two numbers and an operator
+ Output: Result */
 package pdf3;
 
 import java.util.Scanner;
