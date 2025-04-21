@@ -13,8 +13,11 @@ public class Q3 {
     merged[arr1.length + i] = arr2[i];
  }
  System.out.print("Merged array: ");
- for (int val : merged) {
-    System.out.print(val + " ");
+//  for (int val : merged) {
+//     System.out.print(val + " ");
+//  }
+ for (int i = 0; i < merged.length; i++) {
+   System.out.print(merged[i] + " ");
  }
     }
 }

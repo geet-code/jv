@@ -9,8 +9,11 @@ public class Q1 {
     sum[i] = arr1[i] + arr2[i];
  }
  System.out.print("Sum array: ");
- for (int val : sum) {
-    System.out.print(val + " ");
- }
+//  for (int val : sum) {
+//     System.out.print(val + " ");
+//  }
+for (int i = 0; i < sum.length; i++) {
+   System.out.print(sum[i] + " ");
+}
     }
 }
