@@ -1,3 +1,7 @@
+/*1. Factorial of a number
+ Input: Take a number 'n'.
+ Output: Print the factorial of 'n'.
+ Example: n = 5, Output: 120 */
 package pdf7;
 public class Q1 {
 
